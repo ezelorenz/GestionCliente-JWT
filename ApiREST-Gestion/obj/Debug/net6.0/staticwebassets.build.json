@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "HgZDKTbYUJ329T79oE78CrIHC4OKb5CPX/l9AdUAAhc=",
+  "Source": "ApiREST-Gestion",
+  "BasePath": "_content/ApiREST-Gestion",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
